@@ -23,6 +23,11 @@ This project explores how **text-boundary detection and coordinate mapping** can
 
 ---
 
+## Demo
+
+![Smart PDF Navigator Demo](demo/sample.gif)
+
+
 ## Architecture Overview
 
 1. Parse PDF text blocks using PyMuPDF
