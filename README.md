@@ -25,6 +25,10 @@ This project explores how **text-boundary detection and coordinate mapping** can
 
 ## Demo
 
+<p align="center">
+  <img src="demo/sample.gif" alt="PDF Pointer Demo" width="800"/>
+</p>
+
 ![ PDF Pointer Demo](demo/sample.gif)
 
 
