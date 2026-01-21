@@ -25,7 +25,7 @@ This project explores how **text-boundary detection and coordinate mapping** can
 
 ## Demo
 
-![Smart PDF Navigator Demo](demo/sample.gif)
+![ PDF Pointer Demo](demo/sample.gif)
 
 
 ## Architecture Overview
