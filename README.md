@@ -25,7 +25,7 @@ This project explores how **text-boundary detection and coordinate mapping** can
 
 ## Demo
 
-![ PDF Pointer Demo](demo/sample.gif)
+![ PDF Pointer Demo](Demo/sample.gif)
 
 
 ## Architecture Overview
